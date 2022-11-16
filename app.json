@@ -1,23 +1,23 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "༆DARK༒NERO༒BOT࿐",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v2",
   "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
+ "OWNER_NAME" :{AnushkaNuwan 
     "description" : "enter you name",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "ANUSHKA "
     },
     
      
      
-"ALIVE_MSG" :{
+"ALIVE_MSG" :{I'M ༆DARK༒NERO༒BOT࿐
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ༆DARK༒NERO༒BOT࿐"
     },
      
      "ALIVE_LOGO" :{
